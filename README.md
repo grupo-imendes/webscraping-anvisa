@@ -20,8 +20,7 @@ Este projeto realiza a coleta e processamento de dados de medicamentos de refer�
 
 1. Clone o repositório:
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
-   cd [NOME_DO_REPOSITÓRIO]
+   git clone https://github.com/grupo-imendes/webscraping-anvisa.git
    ```
 
 2. Crie um ambiente virtual (recomendado):
@@ -65,5 +64,6 @@ O script gera os seguintes arquivos:
   - `download_pdf()`: Baixa um arquivo PDF
   - `extract_table_from_pdf()`: Extrai tabelas de um arquivo PDF
   - `normalize_date()`: Normaliza formatos de data
+
 
 
