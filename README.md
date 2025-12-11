@@ -66,18 +66,4 @@ O script gera os seguintes arquivos:
   - `extract_table_from_pdf()`: Extrai tabelas de um arquivo PDF
   - `normalize_date()`: Normaliza formatos de data
 
-## 📝 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, entre em contato pelo e-mail: [SEU_EMAIL@exemplo.com]
-
----
-
-Desenvolvido por [Seu Nome] - [Ano atual]
